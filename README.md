@@ -138,6 +138,7 @@
 * [Swift - HTTP网络操作库Alamofire使用详解2（文件上传）](http://www.hangge.com/blog/cache/detail_971.html)
 
 #### SVProgressHUD
-*[SVProgressHUD–比MBProgressHUD更好用的 iOS进度提示组件](http://www.ios122.com/2015/09/svprogresshud/)
-*[SVProgressHUD 入门教程](http://yenn.me/SVProgressHUD-QuickStart.html)
-*[开源第三方提示框控件SVProgressHUD](http://www.jianshu.com/p/704bd0fafbc9)
+
+* [SVProgressHUD–比MBProgressHUD更好用的 iOS进度提示组件](http://www.ios122.com/2015/09/svprogresshud/)
+* [SVProgressHUD 入门教程](http://yenn.me/SVProgressHUD-QuickStart.html)
+* [开源第三方提示框控件SVProgressHUD](http://www.jianshu.com/p/704bd0fafbc9)
